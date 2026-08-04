@@ -1,0 +1,8 @@
+# 카카오 인증 토큰 및 개인 설정 파일 제외
+kakao_code.json
+*.json
+
+# 파이썬 가상환경 및 캐시 파일 제외
+venv/
+__pycache__/
+.DS_Store
